@@ -18,5 +18,7 @@ abstract class Shape
     /**
      * fungsi abstrak untuk perintah menghitung luasnya
      */
+    protected $large = 0;
+    protected $size = 0;
     abstract public function getArea();
 }
