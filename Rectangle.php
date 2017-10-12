@@ -19,20 +19,6 @@ class Rectangle extends Shape
     {
         $this->height = $height;
     }
-    
-    /**
-     * fungsi umum untuk menghitung area/luasnya
-     */
-
-    public function setLarge(int $large)
-    {
-        $this->large = $large;
-    }
-
-    public function setSize(int $size)
-    {
-        $this->size = $size
-    }
 
     public function getArea(): int
     {
