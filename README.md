@@ -1,6 +1,6 @@
 # Belajar Git
 
-Buat object sebanyaknya-banyaknya yang kalian tahu. Coding style harus sesuai PSR-2.
+Repo belajar GIT
 
 # Referensi
 
